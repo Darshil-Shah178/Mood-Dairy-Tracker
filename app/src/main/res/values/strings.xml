@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mood Diary Tracker</string>
+    <string name="happybtn">I am happy</string>
+    <string name="sadbtn">I am sad</string>
+    <string name="txt">Tell us, how do you feel</string>
+    <string name="heading">Heading</string>
+    <string name="tell_more">Tell more. You can write about yourself here</string>
+    <string name="save_button">Save text what you wrote about your self</string>
+    <string name="image_of_your_mood">Image of your Current Mood</string>
+</resources>
